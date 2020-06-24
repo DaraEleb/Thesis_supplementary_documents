@@ -1,0 +1,192 @@
+Supplementary File 5.7: Pairwise comparison of normalized counts at the genus level using parametric t-test. Parametic t-tests were not carried out in comparison with LB because n = 1
+                    GENUS                                   Taxonomy                Combined Abundance p <0.05, log2 fold change >|1.5|                                       LEGEND
+                                                                                                       MBB vs LB  MBB vs BLBMBB vs JBLB vs BLBLB vs JBBLB vs JB               I* = significant (p<0.05) increase (log2fold change > 1.5).
+Blastocatella                                D_0__Bacteria, D_1__Acidobacteria, D_2                3517PA         N         N        AP       AP      N                       I = no significant (p> 0.05) increase (log2fold change > 1.5).  
+Corynebacterium 1                            D_0__Bacteria, D_1__Actinobacteria, D_                2956PA         N         D        AP       AP      D                       D* = significant (p<0.05) decrease (log2fold change < -1.5).
+Blastococcus                                 D_0__Bacteria, D_1__Actinobacteria, D_                1646PA         PA        D        AA       AP      AP                      D = no significant (p> 0.05) decrease (log2fold change <- 1.5). 
+Brevibacterium                               D_0__Bacteria, D_1__Actinobacteria, D_                1095PA         PA        I        AA       AP      AP                      N = no significant with increase/decrease within -1.5 and 1.5 lo
+Ambiguous_taxa-1                             D_0__Bacteria, D_1__Actinobacteria, D_                1068PA         D         PA       AP       AA      PA                      AA = Absent in both
+Ornithinimicrobium                           D_0__Bacteria, D_1__Actinobacteria, D_                5530PA         D         D        AP       AP      N                       AP = Absent in first, Present in second
+Serinicoccus                                 D_0__Bacteria, D_1__Actinobacteria, D_                 830AA         PA        N        AA       AP      AP                      PA = Present in first, Absent in second
+Cryobacterium                                D_0__Bacteria, D_1__Actinobacteria, D_                 821PA         AA        AP       AA       AP      AP                      * = SIGNIFICANT
+Curtobacterium                               D_0__Bacteria, D_1__Actinobacteria, D_                3585PA         D         D        AP       AP      D
+Kocuria                                      D_0__Bacteria, D_1__Actinobacteria, D_                2120N          D         D        AP       AP      N
+Micrococcus                                  D_0__Bacteria, D_1__Actinobacteria, D_                 741PA         PA        D        PA       D       AP
+Rothia                                       D_0__Bacteria, D_1__Actinobacteria, D_                1830PA         PA        I        AA       AP      AP
+Microlunatus                                 D_0__Bacteria, D_1__Actinobacteria, D_                 744PA         D         D        AP       AP      N
+Pseudonocardia                               D_0__Bacteria, D_1__Actinobacteria, D_                 771AA         D         D        AP       AP      N
+Bacteroides                                  D_0__Bacteria, D_1__Bacteroidetes, D_2                 963AA         AP        AP       AP       AP      D
+Ambiguous_taxa-2                             D_0__Bacteria, D_1__Bacteroidetes, D_2                 675AA         AP        AA       AP       AA      PA
+uncultured rumen bacterium                   D_0__Bacteria, D_1__Bacteroidetes, D_2                 831AA         AP        AA       AP       AA      PA
+Prevotella 1                                 D_0__Bacteria, D_1__Bacteroidetes, D_2               29999AA         AP*       AP       AP       AP      I*
+Prevotella 7                                 D_0__Bacteria, D_1__Bacteroidetes, D_2                2276AA         AP        AA       AP       AA      PA
+Prevotellaceae Ga6A1 group                   D_0__Bacteria, D_1__Bacteroidetes, D_2                1431AA         AP        AA       AP       AA      PA
+Prevotellaceae UCG-001                       D_0__Bacteria, D_1__Bacteroidetes, D_2                1524AA         AP        AA       AP       AA      PA
+Prevotellaceae YAB2003 group                 D_0__Bacteria, D_1__Bacteroidetes, D_2                2879PA         AP        AP       AP       AP      I
+Chryseobacterium                             D_0__Bacteria, D_1__Bacteroidetes, D_2                2425PA         I         N        AP       AP      D
+Flavobacterium                               D_0__Bacteria, D_1__Bacteroidetes, D_2                6293PA         PA        I        AA       AP      AP
+Vitellibacter                                D_0__Bacteria, D_1__Bacteroidetes, D_2                 986PA         PA        PA       AA       AA      AA
+Chitinophaga                                 D_0__Bacteria, D_1__Bacteroidetes, D_2                1834AA         PA        PA       AA       AA      AA
+Niastella                                    D_0__Bacteria, D_1__Bacteroidetes, D_2                 794AA         AP        AA       AP       AA      PA
+Taibaiella                                   D_0__Bacteria, D_1__Bacteroidetes, D_2                2200PA         N         N        AP       AP      I
+Sphingobacterium                             D_0__Bacteria, D_1__Bacteroidetes, D_2                1016PA         PA        PA       AA       AA      AA
+Roseiflexus                                  D_0__Bacteria, D_1__Chloroflexi, D_2__                3017PA         PA        D        AA       AP      AP
+Chroogloeocystis                             D_0__Bacteria, D_1__Cyanobacteria, D_2                 815PA         D         PA       AP       AA      PA
+Mastigocladopsis                             D_0__Bacteria, D_1__Cyanobacteria, D_2                3312AA         PA        I        AA       AP      AP
+uncultured bacterium-1                       D_0__Bacteria, D_1__Cyanobacteria, D_2                 823AA         AP        AA       AP       AA      PA
+Fibrobacter                                  D_0__Bacteria, D_1__Fibrobacteres, D_2                4138AA         AP        AA       AP       AA      PA
+Exiguobacterium                              D_0__Bacteria, D_1__Firmicutes, D_2__B                 666PA         PA        N        AA       AP      AP
+Viridibacillus                               D_0__Bacteria, D_1__Firmicutes, D_2__B                 814PA         D         N        AP       AP      N
+Staphylococcus                               D_0__Bacteria, D_1__Firmicutes, D_2__B                4271PA         I         N        AP       AP      D
+Granulicatella                               D_0__Bacteria, D_1__Firmicutes, D_2__B                1166PA         I         PA       AP       AA      PA
+Lactococcus                                  D_0__Bacteria, D_1__Firmicutes, D_2__B               15859PA         I         D        AP       AP      D*
+Streptococcus                                D_0__Bacteria, D_1__Firmicutes, D_2__B                6749I          N         N        D        D       N
+Lachnospiraceae NK4A136 group                D_0__Bacteria, D_1__Firmicutes, D_2__C                 920AA         AA        AP       AA       AP      AP
+uncultured-1                                 D_0__Bacteria, D_1__Firmicutes, D_2__C                 811AA         AA        AP       AA       AP      AP
+Succiniclasticum                             D_0__Bacteria, D_1__Firmicutes, D_2__N                9900AA         AP        AA       AP       AA      PA
+Sporomusa                                    D_0__Bacteria, D_1__Firmicutes, D_2__N                 989AA         AA        AP       AA       AP      AP
+Veillonella                                  D_0__Bacteria, D_1__Firmicutes, D_2__N                1566PA         PA        I        AA       AP      AP
+Fusobacterium                                D_0__Bacteria, D_1__Fusobacteria, D_2_                1693PA         I         PA       AP       AA      PA
+uncultured bacterium-2                       D_0__Bacteria, D_1__Gracilibacteria, D                 666AA         AP        AA       AP       AA      PA
+Brevundimonas                                D_0__Bacteria, D_1__Proteobacteria, D_                5077AA         I         I        AP       AP      D
+Aureimonas                                   D_0__Bacteria, D_1__Proteobacteria, D_                 791AA         AA        AP       AA       AP      AP
+Devosia                                      D_0__Bacteria, D_1__Proteobacteria, D_                4678PA         N         N        AP       AP      N
+Mesorhizobium                                D_0__Bacteria, D_1__Proteobacteria, D_                1647PA         D         PA       AP       AA      PA
+Rhizobium                                    D_0__Bacteria, D_1__Proteobacteria, D_                4144PA         I         N        AP       AP      D
+Pseudolabrys                                 D_0__Bacteria, D_1__Proteobacteria, D_                 779N          D         PA       AP       AA      PA
+Paracoccus                                   D_0__Bacteria, D_1__Proteobacteria, D_                5302PA         N         D        I        D       D
+Rubellimicrobium                             D_0__Bacteria, D_1__Proteobacteria, D_                 957PA         PA        D        AA       AP      AP
+uncultured-2                                 D_0__Bacteria, D_1__Proteobacteria, D_                 820AA         AP        AP       AP       AP      I
+Acidiphilium                                 D_0__Bacteria, D_1__Proteobacteria, D_                 977AA         AP        AP       AP       AP      I
+Roseomonas                                   D_0__Bacteria, D_1__Proteobacteria, D_                 700AA         AA        AP       AA       AP      AP
+Altererythrobacter                           D_0__Bacteria, D_1__Proteobacteria, D_                2772PA         N         N        AP       AP      N
+Erythrobacter                                D_0__Bacteria, D_1__Proteobacteria, D_                 708PA         I         I        AP       AP      D
+uncultured-3                                 D_0__Bacteria, D_1__Proteobacteria, D_                1096PA         I         D        AP       AP      D
+Novosphingobium                              D_0__Bacteria, D_1__Proteobacteria, D_                2775PA         N         I        AP       AP      I
+Sphingomonas                                 D_0__Bacteria, D_1__Proteobacteria, D_                1995PA         D         D        AP       AP      D
+Sphingopyxis                                 D_0__Bacteria, D_1__Proteobacteria, D_                 679PA         I         N        AP       AP      D
+Acidovorax                                   D_0__Bacteria, D_1__Proteobacteria, D_                1780PA         PA        PA       AA       AA      AA
+Aquabacterium                                D_0__Bacteria, D_1__Proteobacteria, D_                7296PA         AP        AA       AP       AA      PA
+Delftia                                      D_0__Bacteria, D_1__Proteobacteria, D_                 725PA         I         I        AP       AP      I
+uncultured-4                                 D_0__Bacteria, D_1__Proteobacteria, D_                 742N          N         PA       AP       AA      PA
+Methylophilus                                D_0__Bacteria, D_1__Proteobacteria, D_                4612D          D         N        N        N       N
+Methylotenera                                D_0__Bacteria, D_1__Proteobacteria, D_                1582PA         D         N        N        I       I
+Neisseria                                    D_0__Bacteria, D_1__Proteobacteria, D_                1451PA         PA        I        AA       AP      AP
+uncultured bacterium-3                       D_0__Bacteria, D_1__Proteobacteria, D_                 668AA         AP        AA       AP       AA      PA
+uncultured Aeromonas sp.                     D_0__Bacteria, D_1__Proteobacteria, D_                2816PA         PA        I        AA       AP      AP
+Succinivibrionaceae UCG-001                  D_0__Bacteria, D_1__Proteobacteria, D_               20205AA         AP*       AA       AP       AA      PA*
+Succinivibrionaceae UCG-002                  D_0__Bacteria, D_1__Proteobacteria, D_                3611AA         AP        AA       AP       AA      PA
+Shewanella                                   D_0__Bacteria, D_1__Proteobacteria, D_              141305PA         D         D        AP       AP      N
+Cellvibrio                                   D_0__Bacteria, D_1__Proteobacteria, D_               10199PA         I         I*       AP       AP      I
+Rheinheimera                                 D_0__Bacteria, D_1__Proteobacteria, D_                2607PA         PA        I        AA       AP      AP
+Ambiguous_taxa-3                             D_0__Bacteria, D_1__Proteobacteria, D_                 921PA         PA        PA       AA       AA      AA
+Enterobacter                                 D_0__Bacteria, D_1__Proteobacteria, D_                8649PA         PA*       I        AA       AP      AP*
+Erwinia                                      D_0__Bacteria, D_1__Proteobacteria, D_               10504D          PA*       I        AA       D       AP
+Escherichia-Shigella                         D_0__Bacteria, D_1__Proteobacteria, D_                6528I          I         I        I        I       D
+Serratia                                     D_0__Bacteria, D_1__Proteobacteria, D_                1692I          N         D        I        I       D
+Ambiguous_taxa-4                             D_0__Bacteria, D_1__Proteobacteria, D_                1889PA         D         D        AP       AP      N
+Halomonas                                    D_0__Bacteria, D_1__Proteobacteria, D_              318457PA         D         D        AP       AP      N
+Haemophilus                                  D_0__Bacteria, D_1__Proteobacteria, D_                6397PA         PA*       I        AA       AP      AP
+Acinetobacter                                D_0__Bacteria, D_1__Proteobacteria, D_                8078I          I         N        N        D       D
+Alkanindiges                                 D_0__Bacteria, D_1__Proteobacteria, D_                2765AA         AP        AP       AP       AP      I
+Pseudomonas                                  D_0__Bacteria, D_1__Proteobacteria, D_               11970I          N         N        N        D       D
+Stenotrophomonas                             D_0__Bacteria, D_1__Proteobacteria, D_                2050PA         D         D        AP       AP      N
+uncultured bacterium-4                       D_0__Bacteria, D_1__Saccharibacteria,                  785AA         AP        AP       AP       AP      I
+uncultured Candidatus Saccharibacteria bacterD_0__Bacteria, D_1__Saccharibacteria,                  923AA         AP        AA       AP       AA      PA
+Ambiguous_taxa-5                             D_0__Bacteria, D_1__Verrucomicrobia, D                 821PA         PA        I        AA       AP      AP
+
+
+
+
+
+ 
+g2fold change.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
